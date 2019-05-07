@@ -1,13 +1,10 @@
-sélectionnés# Template pour : Quêtes  PHP Cookies & Sessions
+# Quêtes PHP Avancé
 
-Ce Template html va te permettre de réaliser ta quête sur la gestion des cookies et des sessions avec PHP.
+## Cookies et Sessions
 
-Sont inclus :
+```
+Lors d'une précédente quête, tu as découvert comment on pouvait faire transiter des informations
+d'une page à une autre avec GET et POST. Malheureusement, celles-ci ont certaines limites. 
 
-* la page de connexion,
-* la page des produits disponibles a l'achat,
-* la page panier, affichant à partir des cookies les produits sélectionnés par l'utilisateur.
+Pour pallier ces problèmes, tu vas pouvoir utiliser ce que l'on appelle les cookies et les sessions.
 
-Tu n'as que du script PHP à fournir !
-
-Après, si l'envie te prend de refondre le CSS, nous ne ferons rien pour t'en empêcher !
